@@ -1,6 +1,6 @@
 
 
-toll_both : list = [
+toll_booth : list = [
 
     {'name' : 'SPO Olszowa', 'location' : 'Olszowa'},
     {'name' : 'SPO Nogowczyce', 'location' : 'Nogowczyce'},
