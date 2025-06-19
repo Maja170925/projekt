@@ -1,9 +1,14 @@
+toll_booth = [
+    {"name": "Stacja A", "location": "Warszawa"},
+    {"name": "Stacja B", "location": "Kraków" },
+]
 
+employees = [
+    {"name": "Jan", "location": "Warszawa", "toll_booth": "Stacja A"},
+    {"name": "Alicja", "location": "Kraków", "toll_booth": "Stacja B"},
+]
 
-toll_booth : list = [
-
-    {'name' : 'SPO Olszowa', 'location' : 'Olszowa'},
-    {'name' : 'SPO Nogowczyce', 'location' : 'Nogowczyce'},
-    {'name' : 'SPO Łany', 'location' : 'Łany'},
-    {'name' : 'SPO Ostropa', 'location' : 'Ostropa'},
+clients = [
+    {"name": "Tomasz", "location": "Warszawa", "toll_booth": "Stacja A"},
+    {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja B"},
 ]
