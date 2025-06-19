@@ -13,3 +13,4 @@ clients = [
     {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja B"},
 ]
 
+#TODO: ogarnąć merge
