@@ -10,6 +10,6 @@ employees = [
 
 clients = [
     {"name": "Tomasz", "location": "Warszawa", "toll_booth": "Stacja A"},
-    {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja o"},
+    {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja b"},
 ]
 
