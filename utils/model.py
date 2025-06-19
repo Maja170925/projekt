@@ -10,7 +10,6 @@ employees = [
 
 clients = [
     {"name": "Tomasz", "location": "Warszawa", "toll_booth": "Stacja A"},
-    {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja B"},
+    {"name": "Basia", "location": "Kraków" , "toll_booth": "Stacja o"},
 ]
 
-#TODO: ogarnąć merge
